@@ -1,3 +1,5 @@
-# hub coming soon lol
+# Random Hub (made by me)
 
-print ("coming soon")
+Uhh, Put this in your executor (SYNAPSE ONLY)
+and u will get some cool stuff 😎
+
